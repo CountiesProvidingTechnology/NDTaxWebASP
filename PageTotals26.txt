@@ -1,0 +1,8 @@
+/tax/disclaimer.asp
+1553
+/tax/main.asp
+100
+/tax/Parcel.asp
+100
+/tax/ParcelList.asp
+100

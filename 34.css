@@ -1,0 +1,99 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+.STitle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #6EAEE0;
+}
+
+.STitle2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	border-top: 1 solid black;
+}
+
+.hLink
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #6EAEE0;
+	text-decoration: none;
+}
+
+.uLink
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #CFDDE7;
+	text-decoration: none;
+	color: #000000;
+}
+
+
+.tLink
+{
+	text-decoration: none;
+	color: #000000;
+}
+
+.tText2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	color: #FF0000;
+	font-weight: bold;
+}
+.tLink2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	color: #FF0000;
+	text-align: right;
+	font-weight: bold;
+}
+
+.pLink
+{
+	text-decoration: none;
+}
+
+.rText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #CFDDE7;
+}
+.rText2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #E7EEF3;
+}
+
+.SHeader
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #0070C6;
+	color: #FFFFFF;
+}
+
+.oText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+
+}

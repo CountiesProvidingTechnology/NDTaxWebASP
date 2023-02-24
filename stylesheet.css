@@ -1,0 +1,130 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+.STitle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #A0C7EC;
+}
+
+.STitle2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	border-top: 1 solid black;
+}
+
+.hLink
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #A0C7EC;
+	text-decoration: none;
+}
+
+.uLink
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #D9DDE1;
+	text-decoration: none;
+	color: #000000;
+}
+
+
+.tLink
+{
+	text-decoration: none;
+	color: #000000;
+}
+
+.pLink
+{
+	text-decoration: none;
+}
+
+.rText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #F6F7F8;
+}
+.rText2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #D9DDE1;
+}
+
+.SHeader
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #3A6EA5;
+
+}
+
+.oText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+
+}
+
+.rText3
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	background-color: #D9DDE1;
+}
+
+.rText4
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	background-color: #D9DDE1;
+}
+
+.rText5
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	background-color: #D9DDE1;
+}
+
+.rText10
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	background-color: #F6F7F8;
+}
+
+.rText11
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	background-color: #F6F7F8;
+}
+
+.rText12
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	background-color: #F6F7F8;
+}
+
+.rText13
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	background-color: #F6F7F8;
+}

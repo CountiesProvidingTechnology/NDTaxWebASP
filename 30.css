@@ -1,0 +1,118 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+.STitle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #F5F4BC;
+}
+
+.STitle2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	border-top: 1 solid black;
+}
+
+.hLink
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #F5F4BC;
+	text-decoration: none;
+}
+
+.uLink
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #D9DDE1;
+	text-decoration: none;
+	color: #000000;
+}
+
+
+.tLink
+{
+	text-decoration: none;
+	color: #000000;
+}
+.tText2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	color: #FF0000;
+	font-weight: bold;
+}
+.tLink2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	color: #FF0000;
+	text-align: right;
+	font-weight: bold;
+}
+
+.pLink
+{
+	text-decoration: none;
+}
+
+.rText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #F3F4E6;
+}
+.rText1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	background-color: #F3F4E6;
+	white-space: nowrap
+}
+.rText2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #E3E5CB;
+}
+.rText3
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	background-color: #E3E5CB;
+	white-space: nowrap
+}
+.rText4
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.SHeader
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #C0C27C;
+
+}
+
+.oText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+
+}
