@@ -114,5 +114,6 @@
 	</td>
   </tr>
 </table>
+<span style="position: absolute;bottom: 5px;left: 50%;">This is open sourced, view the source <a href='https://github.com/CountiesProvidingTechnology/' target='_blank'>here</a></span>
 </body>
 </html>

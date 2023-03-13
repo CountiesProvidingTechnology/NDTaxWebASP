@@ -670,5 +670,6 @@ Set objRS = Nothing
 
 %>
 </table>
+<span style="display: block;padding: 0 50%;display: inline-block;width: 100%;">This is open sourced, view the source <a href='https://github.com/CountiesProvidingTechnology/' target='_blank'>here</a></span>
 </body>
 </html>
